@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 459c207d0d2b8024390e3183643f433e
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: main obj/Cube
+    400000: main obj/Cube/Transform
+    2300000: main obj/Cube/MeshRenderer
+    3300000: main obj/Cube/MeshFilter
+    6500000: main obj/Cube/BoxCollider
+    100100000: main obj
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9bdb34e9df5454b4d9a3e91d7e6d226e, type: 3}
