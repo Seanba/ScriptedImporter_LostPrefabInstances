@@ -2,12 +2,13 @@ fileFormatVersion: 2
 guid: 459c207d0d2b8024390e3183643f433e
 ScriptedImporter:
   fileIDToRecycleName:
-    100000: main obj/Cube
-    400000: main obj/Cube/Transform
-    2300000: main obj/Cube/MeshRenderer
-    3300000: main obj/Cube/MeshFilter
-    6500000: main obj/Cube/BoxCollider
+    100002: main obj/my_imported_object
+    100004: main obj/my_imported_object/grid
+    400002: main obj/my_imported_object/Transform
+    400004: main obj/my_imported_object/grid/Transform
+    11400000: main obj/my_imported_object/MonoBehaviour-MyComponent
     100100000: main obj
+    2569400265252428796: main obj/my_imported_object/grid/Grid
   externalObjects: {}
   userData: 
   assetBundleName: 
